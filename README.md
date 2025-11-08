@@ -2,9 +2,11 @@
 Kien Truong Dinh</a></h1>
 <h3 align="center">Front-end Developer with 3 years of experience specializing in React Native & Next.js from Ho Chi Minh City, Vietnam 🇻🇳</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture align="center">
+  <img align="right" top="500" width="250" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+</picture>
 
 - 🔭 I'm currently working at **Next Pando Generation Joint Stock Company**
 - 💻 My expertise is in **High-Performance Websites (Next.js)** and  **Mobile App Development (React Native)**
